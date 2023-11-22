@@ -1,0 +1,2 @@
+# FaceRecognitingAtendance
+Monitoring Earthing Checker
